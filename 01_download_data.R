@@ -79,4 +79,3 @@ download_met_forecast <- function(forecast_date){
   
   return(met_future)
 }
-```
